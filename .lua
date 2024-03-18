@@ -6,7 +6,7 @@ while wait(0.5) do
                     local esp = Instance.new("BoxHandleAdornment",childrik)
                     esp.Adornee = childrik
                     esp.ZIndex = 0
-                    esp.Size = Vector3.new(6, 7, 3)
+                    esp.Size = Vector3.new(6, 7, 4)
                     esp.Transparency = 0.65
                     esp.Color3 = Color3.fromRGB(255,48,48)
                     esp.AlwaysOnTop = true
